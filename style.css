@@ -3,3 +3,17 @@ body {
   text-align: center;
   color: brown;
 }
+h1 {
+  color: red;
+  font-size: 60px;
+}
+h2 {
+  color: rgb(68, 0, 255);
+  font-size: 60px;
+}
+
+button {
+  margin: 30px;
+  padding: 10px 50px;
+  border-radius: 30px;
+}
